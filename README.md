@@ -417,12 +417,12 @@ VOLTAR PARA USB:
 - PyAV/FFmpeg — H.264 hardware decode
 - NumPy array conversion (thread-safe)
 
-#### 3. **OBS Layer** (95% ✅)
+#### 3. **OBS Layer** (100% ✅)
 - `VirtualCamOutput` — pyvirtualcam wrapper
 - Multi-backend support (obs, unitycapture)
 - Frame resize e timing
 
-#### 4. **UI Layer** (90% ✅)
+#### 4. **UI Layer** (100% ✅)
 - `MainWindow` — Dashboard principal
 - `CameraOnlyWindow` — Janela flutuante
 - `VideoWidget` — Renderização 60fps QImage
