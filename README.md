@@ -77,18 +77,6 @@ Licenciado sob Apache License 2.0.
 
 ---
 
-## 📋 Documentação
-
-1. [Requisitos](#requisitos)
-2. [Instalação Rápida](#instalação-rápida)
-3. [Como Usar](#como-usar)
-4. [Características Detalhadas](#características-detalhadas)
-5. [Arquitetura](#arquitetura)
-6. [Desenvolvimento](#desenvolvimento)
-7. [FAQ](#faq)
-
----
-
 ## 🎯 Visão Geral
 
 **FuriousCam Pro** é um complemento simples para o OBS Studio que permite usar um celular Android como webcam sem aplicativo permanente instalado.
