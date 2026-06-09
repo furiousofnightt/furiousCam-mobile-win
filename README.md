@@ -216,7 +216,7 @@ Licenciado sob Apache License 2.0.
 - ADB drivers (Google USB)
 
 ### Android
-- Android 5.0+ (API 21+)
+- Android 11+ (API 21+)
 - Modo USB Debug ativado
 - Permissão de câmera
 
